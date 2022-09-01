@@ -1,2 +1,2 @@
-#!/binm/bash
+#!/bin/bash
 mv [[:upper:]]* /tmp/u
