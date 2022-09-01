@@ -1,0 +1,2 @@
+#!/binm/bash
+mv [[:upper:]]* /tmp/u
